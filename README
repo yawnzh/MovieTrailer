@@ -1,0 +1,7 @@
+1. Open terminal in the folder
+2. Command:
+   a. $ python media.py
+   b. $ python fresh_tomatoes.py
+   c. $ python entertainment_center.py 
+
+3. After typing the commands above the browser would open a page which contains 3 movies' title and poster image. Click one of them there would be a popup window playing the trailer.
